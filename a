@@ -1,0 +1,20 @@
+CL:;
+CarPose:7 23;
+CarPose.yaw:1.45;
+Intersection:34 23;
+END
+CL:0 0,100 100;
+CarPose:7 23;
+CarPose.yaw:1.45;
+Intersection:34 23;
+END
+CL:0 0,100 100,200 0;
+CarPose:70 230;
+CarPose.yaw:0.78;
+Intersection:34 23;
+END
+CL:0 0,100 100,200 0,300 100;
+CarPose:45 145;
+CarPose.yaw:0.78;
+Intersection:34 23;
+END

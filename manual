@@ -1,0 +1,12 @@
+CL:
+DOT 1 x, DOT 1 y
+DOT 2 x, DOT 2 y
+...
+DOT n x, DOT n y;
+
+CarPose: ...;
+
+CarPose.yaw: ...;
+
+Intersection: Intersection x, Intersection y;
+END

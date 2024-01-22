@@ -1,0 +1,6 @@
+    t_r = t % parser.get_count()
+
+    centerLine = parser.get_centerLine(t_r)
+
+    for i in range(len(centerLine) - 1):
+        pygame.draw.line(screen, (255, 255, 0), (0, 0), (500, 500), 1)
